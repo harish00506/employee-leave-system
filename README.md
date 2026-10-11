@@ -2,6 +2,8 @@
 
 A modern, full-stack Employee Leave Management System built with Next.js, featuring role-based access control, leave workflows, and comprehensive dashboards.
 
+**More of my work, with case studies: [www.harishg.com](https://www.harishg.com)**
+
 ## Features
 
 ### Employee Features
